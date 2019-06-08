@@ -1,2 +1,4 @@
 
 *.ipynb_checkpoints/*
+*.pkl
+Module2_CS3_poor-vs-rich-countries/*
